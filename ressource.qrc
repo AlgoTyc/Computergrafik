@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sample.frag</file>
+        <file>sample_texture.jpg</file>
+        <file>gimbal.obj</file>
+        <file>gimbal-smooth.obj</file>
+        <file>sphere.obj</file>
+        <file>gimbal_wood.jpg</file>
+        <file>sample.vert</file>
+        <file>backpack.obj</file>
+        <file>star.glb</file>
+        <file>back.jpg</file>
+        <file>bottom.jpg</file>
+        <file>front.jpg</file>
+        <file>left.jpg</file>
+        <file>right.jpg</file>
+        <file>skybox.frag</file>
+        <file>skybox.vert</file>
+        <file>top.jpg</file>
+        <file>light.frag</file>
+        <file>light.vert</file>
+    </qresource>
+</RCC>
